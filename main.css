@@ -1,1 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee|Ubuntu');
+body {
+    background: url(images/bg.jpg);
+    color:white;
+}
+
+h1 {
+    font-family: 'Bungee';
+}
+
+p {
+    font-family:'Ubuntu';
+}
+
+form {
+    font-family:'Ubuntu';
+}
+
+a {
+    font-family:'Ubuntu';
+    text-decoration: none;
+}
+.myLinks a img{
+    width:128px;
+    height:128px;
+}
